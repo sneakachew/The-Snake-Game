@@ -1,3 +1,3 @@
 # The-Snake-Game
 
-Just another basic snake game
+A basic snake game using pygame.
